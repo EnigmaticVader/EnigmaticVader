@@ -1,6 +1,6 @@
 - 👋 Hi, I’m EnigmaticVader
-- 👀 I’m interested in learning to utilize code for blockchain/web3 technologies and gaming 
-- 🌱 I’m currently learning Haskell 
+- 👀 I’m interested in learning to utilize code for things such as data analysis 
+- 🌱 I’m currently learning Python 
 
 
 <!---
